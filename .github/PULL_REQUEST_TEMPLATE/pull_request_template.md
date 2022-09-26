@@ -16,13 +16,6 @@ Fixes #\<issue_no>
 
 *Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration*
 
-
-**Development Configuration**
-*Type "flutter --version" and "dart --version" in your CMD to check versions.*
-
-* Flutter version:
-* Dart version:
-
 # Checklist:
 
 - [ ] My code follows the style guidelines of this project
