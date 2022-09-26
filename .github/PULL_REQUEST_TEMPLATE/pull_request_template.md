@@ -33,5 +33,5 @@ Fixes #\<issue_no>
 - [ ] I have added tests that prove my fix is effective or that my feature works, if necessary
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
-- [ ] I have Acceptance Tested this on an iOS device
+- [ ] I have Acceptance Tested this on the web
 - [ ] I have Acceptance Tested this on an Android device
