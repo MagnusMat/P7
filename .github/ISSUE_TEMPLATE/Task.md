@@ -20,4 +20,4 @@ We would like to have \<this> work...
 
 ## Sub Tasks
 *Create your own subtask issues on GitHub and link them here in a list.*
-- [ ] 
+- [ ] Subtask
