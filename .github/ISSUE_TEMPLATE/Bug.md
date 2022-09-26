@@ -27,4 +27,4 @@ A clear and concise description of what actually happened.
 
 ## Sub Tasks
 *Create your own subtask issues on GitHub and link them here in a list.*
-- [ ] \<Subtask link> 
+- [ ] Subtask
