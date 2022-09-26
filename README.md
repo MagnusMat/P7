@@ -1,3 +1,3 @@
 # P7
 
-Offloading of computations networked devices.
+Computational offloading to iot devices.
