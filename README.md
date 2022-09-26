@@ -2,4 +2,4 @@
 
 Computational offloading to iot devices.
 
-![Tidsplan](https://github.com/MagnusMat/P7/blob/216bfce6756592612f22a2e821ca362ccc788098/Tidsplan.drawio.png)
+![Tidsplan](https://github.com/MagnusMat/P7/blob/4831e19456acbd5a37dc45cd2c011328f5efb9e3/Tidsplan%20background.drawio.png)
