@@ -13,6 +13,6 @@ assignees: ''
 *Prototypes go here.*
 
 
-## Sub Tasks
-*Create your own subtask issues on GitHub and link them here in a list.*
-- [ ] \<Subtask link> 
+## Tasks
+*Create your own task issues on GitHub and link them here in a list.*
+- [ ] \<Task link> 
