@@ -1,6 +1,9 @@
-from flask import Flask
-app = Flask(__name__)
 
-@app.route('/')
-def hello_world():
-    return 'Hello, Docker!'
+from time import sleep
+
+
+x = 0
+while True:
+    x = 1
+    print(x)
+    sleep(1)
